@@ -1,0 +1,7 @@
+*.bam
+*.bai
+*.fasta
+*.gtf
+*.pkl
+*.swp
+.ipynb_checkpoints/
